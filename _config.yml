@@ -1,0 +1,10 @@
+title: RoomMatch
+description: Finding compatible roommates at University of Hawaii.
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/roommatch-uhm/roommatch-uhm.github.io
+gems:
+  - jekyll-mentions
