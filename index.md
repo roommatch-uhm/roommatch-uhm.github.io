@@ -24,21 +24,43 @@ Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform d
 
 ## Mockup Pages
 
-# Landing Page
+### Landing Page
 
+The first page users see when visiting RoomMatch UHM:
+- "Get Started" button and introduction to the app.
+- Navigation options at the top: View RoomMatches, Create a Profile, and My Profile.
+- Example testimonies from other students using the app to encourage engagement.
+  
 <img src="img/landing-page1.png">
 <img src="img/landing-page2.png">
 
-# Matches Page
+### Matches Page
+
+Shows students that our algorithm predicts as compatible roommates:
+- Displays potential roommates with a brief profile summary.
+- Users can click on the Chat button to start a conversation.
+- Helps students find matches quickly and efficiently.
 
 <img src="img/matches-page1.png">
-<img src="img/matched-page2.png">
+<img src="img/matches-page2.png">
 
-# Profile Page
+### Profile Page
+
+Displays an individual student's complete profile:
+- View detailed information about the student.
+- Enter your own information and send a message to reach out to the student.
 
 <img src="img/profile-page1.png">
 
-# Create Profile
+### Create Profile
+
+Allows students to set up their profile for matching:
+- Input personal and contact information.
+- Answer questions such as:
+  - What is your budget?
+  - What are your study habits?
+  - What is your sleep schedule?
+- Submitting the profile enables the app to generate compatibility-based roommate suggestions.
 
 <img src="img/create-profile-page.png">
 
