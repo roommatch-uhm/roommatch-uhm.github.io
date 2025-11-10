@@ -25,6 +25,8 @@ Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform d
 ## M1 Progress Page
 [Click Here](https://github.com/orgs/roommatch-uhm/projects/1)
 
+## Team Contract
+[Click Here](https://docs.google.com/document/d/1_-OBrYrziAiaBHlRvP3xNTNON9cxNEQYZn9Zfn4_QP4/edit?tab=t.0)
 
 ## Mockup Pages
 
