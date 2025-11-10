@@ -22,12 +22,14 @@ Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform d
 - Lara Miyakawa Ho
 - Miley Chun
 
-## M1 Progress Page
+## Development
+
+### M1 Progress Page
 [Click Here](https://github.com/orgs/roommatch-uhm/projects/1)
 
 ## Team Contract
 
- A collaborative agreement that outlines our team's shared goals, roles, and how members will interact to work together effectively.
+RoomMatch UHM is designed and implemented by Brooke Clifton, Ethan Garcia, Harrison Gray, Lara Miyakawa Ho, and Miley Chun. Our collaborative agreement  outlines our team's shared goals, roles, and how members will interact to work together effectively.
 
 [Click Here](https://docs.google.com/document/d/1_-OBrYrziAiaBHlRvP3xNTNON9cxNEQYZn9Zfn4_QP4/edit?tab=t.0)
 
