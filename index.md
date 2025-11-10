@@ -22,6 +22,10 @@ Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform d
 - Lara Miyakawa Ho
 - Miley Chun
 
+## M1 Progress Page
+![](https://github.com/orgs/roommatch-uhm/projects/1)
+
+
 ## Mockup Pages
 
 ### Landing Page
