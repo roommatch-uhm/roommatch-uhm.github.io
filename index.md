@@ -75,5 +75,6 @@ Allows students to set up their profile for matching:
 
 <img src="img/create-profile-page.png">
 
+
 ---
 © 2025 RoomMatch UHM • Created by the RoomMatch UHM Team
