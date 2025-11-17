@@ -1,31 +1,38 @@
-# 🏠 RoomMatch UHM
-
+# RoomMatch UHM
+<img src="img/logo.png">
 Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform designed to connect University of Hawaiʻi at Mānoa students seeking roommates or housing opportunities.
 
-## 🌟 Project Goals
+## Project Goals
 
 - Match UH students with compatible roommates.
 - Help students find housing near campus.
 - Build a trusted community-based housing network.
 
-## 💡 Planned Features
+## Planned Features
 
 - UH email verification  
 - Compatibility-based roommate matching  
 - Room listings with filters and search  
 - Secure in-app messaging  
 
-## 👥 Team Members
+## Team Members
 - Brooke Clifton
 - Ethan Garcia
 - Harrison Gray
 - Lara Miyakawa Ho
 - Miley Chun
 
+## Deployment
+
+### Vercel Page
+[Click Here]()
+
 ## Development
 
 ### M1 Progress Page
 [Click Here](https://github.com/orgs/roommatch-uhm/projects/1)
+### M2 Progress Page
+[Click Here](https://github.com/orgs/roommatch-uhm/projects/5)
 
 ## Team Contract
 
@@ -74,6 +81,34 @@ Allows students to set up their profile for matching:
 - Submitting the profile enables the app to generate compatibility-based roommate suggestions.
 
 <img src="img/create-profile-page.png">
+
+### Messages Page
+
+The Messages Page enables users to chat directly with their potential or matched roommates in a clean, easy-to-use interface. It is designed to encourage open communication, allowing students to coordinate housing details, discuss compatibility, or simply get to know each other before moving in.
+
+Features:
+- Chat interface with message bubbles for clear distinction between users.
+- Displays a list of people you are messaging on the left and the conversation on the right.
+- Includes user profile pictures for easy identification.
+- Responsive layout that adapts to both mobile and desktop screens.
+  
+<img src="img/Messages.png">
+
+### Meetings Page
+The Meetings Page helps students stay organized by managing upcoming roommate meetups or housing-related appointments. It features an interactive calendar where users can view, add, edit, and cancel meetings with ease.
+
+Features:
+- Interactive React Calendar showing all scheduled meetings.
+- Add new meetings with title, date, and time.
+- Edit or cancel existing meetings using simple form controls.
+- Highlighted days indicate scheduled meetings for quick visual reference.
+
+Features:
+
+<img src="img/Meetings-1.png">
+<img src="img/Meetings-new.png">
+<img src="img/Meetings-edit.png">
+
 
 
 ---
