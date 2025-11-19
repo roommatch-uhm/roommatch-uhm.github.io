@@ -17,6 +17,7 @@
 }
 h1 {
   font-family: "Gil Sans", "Rubik", sans-serif;
+  font-size: 20px;
 }
 
 h2 {
@@ -24,4 +25,8 @@ h2 {
 }
 p {
   font-family: "Gil Sans", "Rubik", sans-serif;
+}
+
+body {
+  padding: 50px;
 }
