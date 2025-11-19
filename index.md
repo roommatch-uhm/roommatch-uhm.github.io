@@ -1,3 +1,6 @@
+import './globals.css';
+import './style.css';
+
 <h1>RoomMatch UHM</h1>
 
 <img src="img/logo.png" alt="RoomMatch UHM Logo">
