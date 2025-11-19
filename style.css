@@ -13,22 +13,39 @@
   --tf-page-bg-color: var(--tf-color3);
   --tf-footer-bg-color: var(--tf-color4);
   --tf-projects-bg-color: var(--tf-color4);
-  
+}
+body {
+  font-family: "Nunito", "Rubik", sans-serif;
+  background-color: var(--tf-page-bg-color);
+  text-align: center;
+  margin: 0;
+  padding: 40px;
 }
 h1 {
-  font-family: "Nunito", "Rubik", sans-serif;
-  font-size: 50px;
+  font-size: 52px;
+  font-weight: 700;
+  color: var(--tf-color1);
+  margin-bottom: 20px;
 }
-
 h2 {
-  font-family: "Nunito", "Rubik", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--tf-color1);
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
 p {
-  font-family: "Nunito", "Rubik", sans-serif;
+  font-size: 18px;
+  color: #4b3c36;
+  max-width: 800px;
+  margin: 0 auto 20px auto;
+  line-height: 1.6;
+}
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
 }
 
-body {
-  background-color: #f5ebe0;
-  align-items: center; 
-  height: 100%;
-}
+
