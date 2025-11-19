@@ -27,7 +27,7 @@ p {
   font-family: "Nunito", "Rubik", sans-serif;
 }
 
-.page-container {
+body {
   padding: 50px;
   background-color: #f5ebe0;
   display: flex;
