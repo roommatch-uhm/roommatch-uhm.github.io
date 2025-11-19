@@ -17,7 +17,7 @@
 }
 h1 {
   font-family: "Nunito", "Rubik", sans-serif;
-  font-size: 20px;
+  font-size: 50px;
 }
 
 h2 {
@@ -27,7 +27,7 @@ p {
   font-family: "Nunito", "Rubik", sans-serif;
 }
 
-body {
+.page-container {
   padding: 50px;
   background-color: #f5ebe0;
   display: flex;
