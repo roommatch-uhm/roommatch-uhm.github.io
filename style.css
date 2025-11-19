@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Space Mono");
+@import url("https://fonts.googleapis.com/css?family=Gil Sans");
 
 :root {
   --tf-color1: #43291f;
@@ -16,12 +16,12 @@
   
 }
 h1 {
-  font-family: "Space Mono", "Rubik", sans-serif;
+  font-family: "Gil Sans", "Rubik", sans-serif;
 }
 
 h2 {
-  font-family: "Space Mono", "Rubik", sans-serif;
+  font-family: "Gil Sans", "Rubik", sans-serif;
 }
 p {
-  font-family: "Space Mono", "Rubik", sans-serif;
+  font-family: "Gil Sans", "Rubik", sans-serif;
 }
