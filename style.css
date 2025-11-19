@@ -1,16 +1,16 @@
 @import url("https://fonts.googleapis.com/css?family=Space Mono");
 
 :root {
-  --tf-color1: #313e50;
-  --tf-color2: #313e50;
-  --tf-color3: #7c91a2;
-  --tf-color4: #e6eaf0;
+  --tf-color1: #43291f;
+  --tf-color2: #d5bdaf;
+  --tf-color3: #f5ebe0;
+  --tf-color4: #d5bdaf;
   --bs-font-sans-serif: "Space Mono", "Rubik", sans-serif;
   --bs-link-color: var(--tf-color1);
-  --tf-pill-bg: var(--tf-color3);
+  --tf-pill-bg: var(--tf-color2);
   --tf-icon-fill: var(--tf-color1);
-  --tf-icon-hover: var(--tf-color3);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-icon-hover: var(--tf-color2);
+  --tf-page-bg-color: var(--tf-color3);
   --tf-footer-bg-color: var(--tf-color4);
   --tf-projects-bg-color: var(--tf-color4);
   
