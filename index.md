@@ -25,7 +25,7 @@ Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform d
 ## Deployment
 
 ### Vercel Page
-[Click Here]()
+[Click Here](https://roommatch-uhm-v1-5eha7kcq5-roommatch-uhm.vercel.app/)
 
 ## Development
 
@@ -49,8 +49,8 @@ The first page users see when visiting RoomMatch UHM:
 - Navigation options at the top: View RoomMatches, Create a Profile, and My Profile.
 - Example testimonies from other students using the app to encourage engagement.
   
-<img src="img/landing-page1.png">
-<img src="img/landing-page2.png">
+<img src="img/landing-page.png">
+<img src="img/lpt.png">
 
 ### Matches Page
 
