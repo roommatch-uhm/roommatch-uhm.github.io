@@ -28,10 +28,11 @@ h1 {
   margin-bottom: 20px;
 }
 ul {
+  list-style-position: inside;
   display: inline-block;
+  margin: 0 auto 20px auto;
+  padding: 0;
   text-align: left;
-  margin: 0 auto;
-  padding-left: 25px;
 }
 li {
   font-size: 18px;
