@@ -1,11 +1,11 @@
-@import url("https://fonts.googleapis.com/css?family=Space Mono");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap');
 
 :root {
   --tf-color1: #43291f;
   --tf-color2: #d5bdaf;
   --tf-color3: #f5ebe0;
   --tf-color4: #d5bdaf;
-  --bs-font-sans-serif: "Space Mono", "Rubik", sans-serif;
+  --bs-font-sans-serif: "Nunito", sans-serif;
   --bs-link-color: var(--tf-color1);
   --tf-pill-bg: var(--tf-color2);
   --tf-icon-fill: var(--tf-color1);
@@ -13,15 +13,51 @@
   --tf-page-bg-color: var(--tf-color3);
   --tf-footer-bg-color: var(--tf-color4);
   --tf-projects-bg-color: var(--tf-color4);
-  
+}
+body {
+  font-family: "Nunito", "Rubik", sans-serif;
+  background-color: var(--tf-page-bg-color);
+  text-align: center;
+  margin: 0;
+  padding: 40px;
 }
 h1 {
-  font-family: "Space Mono", "Rubik", sans-serif;
+  font-size: 52px;
+  font-weight: 700;
+  color: var(--tf-color1);
+  margin-bottom: 20px;
 }
-
+ul {
+  list-style-position: inside;
+  display: inline-block;
+  margin: 0 auto 20px auto;
+  padding: 0;
+  text-align: left;
+}
+li {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #4b3c36;
+}
 h2 {
-  font-family: "Space Mono", "Rubik", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--tf-color1);
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
 p {
-  font-family: "Space Mono", "Rubik", sans-serif;
+  font-size: 18px;
+  color: #4b3c36;
+  max-width: 800px;
+  margin: 0 auto 20px auto;
+  line-height: 1.6;
 }
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  height: auto;
+}
+
+

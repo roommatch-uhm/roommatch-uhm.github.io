@@ -1,98 +1,57 @@
-<h1>RoomMatch UHM</h1>
+# RoomMatch UHM
+<img src="img/logo.png">
+Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform designed to connect University of Hawaiʻi at Mānoa students seeking roommates or housing opportunities.
 
-<img src="img/logo.png" alt="RoomMatch UHM Logo">
+## Project Goals
 
-<p>
-  Welcome to <strong>RoomMatch UHM</strong>, a student-focused housing compatibility platform 
-  designed to connect University of Hawaiʻi at Mānoa students seeking roommates or housing opportunities.
-</p>
+- Match UH students with compatible roommates.
+- Help students find housing near campus.
+- Build a trusted community-based housing network.
 
-<h2>Project Goals</h2>
-<ul>
-  <li>Match UH students with compatible roommates.</li>
-  <li>Help students find housing near campus.</li>
-  <li>Build a trusted community-based housing network.</li>
-</ul>
+## Planned Features
 
-<h2>Planned Features</h2>
-<ul>
-  <li>UH email verification</li>
-  <li>Compatibility-based roommate matching</li>
-  <li>Room listings with filters and search</li>
-  <li>Secure in-app messaging</li>
-</ul>
+- UH email verification  
+- Compatibility-based roommate matching  
+- Room listings with filters and search  
+- Secure in-app messaging  
 
-<h2>Team Members</h2>
-<ul>
-  <li>Brooke Clifton</li>
-  <li>Ethan Garcia</li>
-  <li>Harrison Gray</li>
-  <li>Lara Miyakawa Ho</li>
-  <li>Miley Chun</li>
-</ul>
+## Team Members
+- Brooke Clifton
+- Ethan Garcia
+- Harrison Gray
+- Lara Miyakawa Ho
+- Miley Chun
 
-<h2>Deployment</h2>
+## Deployment
 
-<h3>Vercel Page</h3>
-<p><a href="#">Click Here</a></p>
+### Vercel Page
+[Click Here]([https://roommatch-uhm-v1-bllyvtf8u-roommatch-uhm.vercel.app/](https://roommatch-uhm-v1-7h8y5lrs2-roommatch-uhm.vercel.app/))
 
-<h2>Development</h2>
 
-<h3>M1 Progress Page</h3>
-<p><a href="https://github.com/orgs/roommatch-uhm/projects/1">Click Here</a></p>
+## Development
 
-<h3>M2 Progress Page</h3>
-<p><a href="https://github.com/orgs/roommatch-uhm/projects/5">Click Here</a></p>
+### M1 Progress Page
+[Click Here](https://github.com/orgs/roommatch-uhm/projects/1)
+### M2 Progress Page
+[Click Here](https://github.com/orgs/roommatch-uhm/projects/5)
 
-<h2>Team Contract</h2>
-<p>
-  RoomMatch UHM is designed and implemented by Brooke Clifton, Ethan Garcia, 
-  Harrison Gray, Lara Miyakawa Ho, and Miley Chun. Our collaborative agreement  
-  outlines our team's shared goals, roles, and how members will interact to work together effectively.
-</p>
-<p>
-  <a href="https://docs.google.com/document/d/1_-OBrYrziAiaBHlRvP3xNTNON9cxNEQYZn9Zfn4_QP4/edit?tab=t.0">
-    Click Here
-  </a>
-</p>
+## Team Contract
 
-<h2>Mockup Pages</h2>
+RoomMatch UHM is designed and implemented by Brooke Clifton, Ethan Garcia, Harrison Gray, Lara Miyakawa Ho, and Miley Chun. Our collaborative agreement  outlines our team's shared goals, roles, and how members will interact to work together effectively.
 
-<h3>Landing Page</h3>
-<p>The first page users see when visiting RoomMatch UHM:</p>
-<ul>
-  <li>"Get Started" button and introduction to the app.</li>
-  <li>Navigation options at the top: View RoomMatches, Create a Profile, and My Profile.</li>
-  <li>Example testimonies from other students using the app to encourage engagement.</li>
-</ul>
-<img src="img/landing-page1.png" alt="Landing Page Screenshot 1">
-<img src="img/landing-page2.png" alt="Landing Page Screenshot 2">
+[Click Here](https://docs.google.com/document/d/1_-OBrYrziAiaBHlRvP3xNTNON9cxNEQYZn9Zfn4_QP4/edit?tab=t.0)
 
-<h3>Listings Page</h3>
-<p>Shows students that our algorithm predicts as compatible roommates:</p>
-<ul>
-  <li>Displays potential roommates with a brief profile summary.</li>
-  <li>Users can click the Chat button to start a conversation.</li>
-  <li>Helps students find matches quickly and efficiently.</li>
-</ul>
-<img src="img/listings-Page.png" alt="Matches Page Screenshot">
+## Mockup Pages
 
-<h3>Profile Page</h3>
-<p>Displays an individual student's complete profile:</p>
-<ul>
-  <li>View detailed information about the student.</li>
-  <li>Enter your own information and send a message to reach out to the student.</li>
-</ul>
-<img src="img/myProfile.png" alt="Profile Page Screenshot">
+### Landing Page
 
-<h3>Create Profile</h3>
-<p>Allows students to set up their profile for matching:</p>
-<ul>
-  <li>Input personal and contact information.</li>
-  <li>Answer questions such as budget, study habits, and sleep schedule.</li>
-  <li>Submitting the profile enables the app to generate compatibility suggestions.</li>
-</ul>
-<img src="img/create-Profile.png" alt="Create Profile Screenshot">
+The first page users see when visiting RoomMatch UHM:
+- "Get Started" button and introduction to the app.
+- Navigation options at the top: View RoomMatches, Create a Profile, and My Profile.
+- Example testimonies from other students using the app to encourage engagement.
+  
+<img src="img/landing-page.png">
+<img src="img/lpt.png">
 
 <h3>Edit Profile</h3>
 <p>Allows students to make edits to their profile>
@@ -115,20 +74,62 @@
 </ul>
 <img src="img/Messages.png" alt="Messages Page Screenshot">
 
-<h3>Meetings Page</h3>
-<p>
-  The Meetings Page helps students track upcoming roommate meetups or housing appointments.
-</p>
-<ul>
-  <li>Interactive React Calendar.</li>
-  <li>Add new meetings with title, date, and time.</li>
-  <li>Edit or cancel existing meetings.</li>
-  <li>Highlighted calendar days for scheduled meetings.</li>
-</ul>
-<img src="img/Meetings-1.png" alt="Meetings Calendar Screenshot 1">
-<img src="img/Meetings-new.png" alt="Meetings New Screenshot">
-<img src="img/Meetings-edit.png" alt="Meetings Edit Screenshot">
+Shows students that our algorithm predicts as compatible roommates:
+- Displays potential roommates with a brief profile summary.
+- Users can click on the Chat button to start a conversation.
+- Helps students find matches quickly and efficiently.
 
-<hr>
+<img src="img/matches-page1.png">
+<img src="img/matches-page2.png">
 
-<p>© 2025 RoomMatch UHM • Created by the RoomMatch UHM Team</p>
+### Profile Page
+
+Displays an individual student's complete profile:
+- View detailed information about the student.
+- Enter your own information and send a message to reach out to the student.
+
+<img src="img/profile-page1.png">
+
+### Create Profile
+
+Allows students to set up their profile for matching:
+- Input personal and contact information.
+- Answer questions such as:
+  - What is your budget?
+  - What are your study habits?
+  - What is your sleep schedule?
+- Submitting the profile enables the app to generate compatibility-based roommate suggestions.
+
+<img src="img/create-profile-page.png">
+
+### Messages Page
+
+The Messages Page enables users to chat directly with their potential or matched roommates in a clean, easy-to-use interface. It is designed to encourage open communication, allowing students to coordinate housing details, discuss compatibility, or simply get to know each other before moving in.
+
+Features:
+- Chat interface with message bubbles for clear distinction between users.
+- Displays a list of people you are messaging on the left and the conversation on the right.
+- Includes user profile pictures for easy identification.
+- Responsive layout that adapts to both mobile and desktop screens.
+  
+<img src="img/Messages.png">
+
+### Meetings Page
+The Meetings Page helps students stay organized by managing upcoming roommate meetups or housing-related appointments. It features an interactive calendar where users can view, add, edit, and cancel meetings with ease.
+
+Features:
+- Interactive React Calendar showing all scheduled meetings.
+- Add new meetings with title, date, and time.
+- Edit or cancel existing meetings using simple form controls.
+- Highlighted days indicate scheduled meetings for quick visual reference.
+
+Features:
+
+<img src="img/Meetings-1.png">
+<img src="img/Meetings-new.png">
+<img src="img/Meetings-edit.png">
+
+
+
+---
+© 2025 RoomMatch UHM • Created by the RoomMatch UHM Team
