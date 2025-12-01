@@ -94,6 +94,14 @@
 </ul>
 <img src="img/create-Profile.png" alt="Create Profile Screenshot">
 
+<h3>Edit Profile</h3>
+<p>Allows students to make edits to their profile>
+<ul>
+  <li>Rewrite personal and contact information.</li>
+  <li>Reanswer questions such as budget, study habits, and sleep schedule.</li>
+</ul>
+<img src="img/edit.png" alt="Edit Profile Screenshot">
+
 <h3>Messages Page</h3>
 <p>
   The Messages Page enables users to chat directly with potential or matched roommates. 
