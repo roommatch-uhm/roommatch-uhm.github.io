@@ -4,7 +4,7 @@
 Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform designed to connect University of Hawaiʻi at Mānoa students seeking roommates or housing opportunities.
 
 ## Project Goals
-
+   
 - Match UH students with compatible roommates.
 - Help students find housing near campus.
 - Build a trusted community-based housing network.
