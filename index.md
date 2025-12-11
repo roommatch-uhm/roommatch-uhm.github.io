@@ -28,7 +28,7 @@ Welcome to **RoomMatch UHM**, a student-focused housing compatibility platform d
 
 ### Vercel Page
 
-[Click Here](<[https://roommatch-uhm-v1-bllyvtf8u-roommatch-uhm.vercel.app/](https://roommatch-uhm-v1-7h8y5lrs2-roommatch-uhm.vercel.app/)>)
+[Click Here](https://roommatch-uhm-v1-jpqzqfsu4-roommatch-uhm.vercel.app)
 
 ## Development
 
